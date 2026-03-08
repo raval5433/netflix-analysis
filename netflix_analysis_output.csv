@@ -1,0 +1,23 @@
+Task,Result
+1 Total Titles,8807
+2 Type Distribution,"{'Movie': 6131, 'TV Show': 2676}"
+3 Unique Countries,749
+4 Top Countries,"{'United States': 2818, 'India': 972, 'Unknown': 831, 'United Kingdom': 419, 'Japan': 245}"
+5 Rating Distribution,"{'TV-MA': 3207, 'TV-14': 2160, 'TV-PG': 863, 'R': 799, 'PG-13': 490, 'TV-Y7': 334, 'TV-Y': 307, 'PG': 287, 'TV-G': 220, 'NR': 80, 'G': 41, 'TV-Y7-FV': 6, 'Unknown': 4, 'NC-17': 3, 'UR': 3, '74 min': 1, '84 min': 1, '66 min': 1}"
+6 Top Genres,"{'Dramas, International Movies': 362, 'Documentaries': 359, 'Stand-Up Comedy': 334, 'Comedies, Dramas, International Movies': 274, 'Dramas, Independent Movies, International Movies': 252}"
+7 Titles after 2018,2575
+8 Titles before 2000,525
+9 Average Release Year,2014.1801975701146
+10 Total Movies,6131
+11 Total TV Shows,2676
+12 Content added in 2020,1879
+13 Content added in 2021,1498
+14 Longest Movie Duration,{'90 min': 152}
+15 Shortest Movie Duration,{'191 min': 1}
+16 Top Directors,"{'Unknown': 2634, 'Rajiv Chilaka': 19, 'Raúl Campos, Jan Suter': 18, 'Suhas Kadav': 16, 'Marcus Raboy': 16}"
+17 Top Actors,"{'Unknown': 825, 'David Attenborough': 19, 'Vatsal Dubey, Julie Tejwani, Rupa Bhimani, Jigna Bhardwaj, Rajesh Kava, Mousam, Swapnil': 14, 'Samuel West': 10, 'Jeff Dunham': 7}"
+18 Titles per Year,"{2018: 1147, 2017: 1032, 2019: 1030, 2020: 953, 2016: 902, 2021: 592, 2015: 560, 2014: 352, 2013: 288, 2012: 237}"
+19 Missing Values,"{'show_id': 0, 'type': 0, 'title': 0, 'director': 0, 'cast': 0, 'country': 0, 'date_added': 10, 'release_year': 0, 'rating': 0, 'duration': 3, 'listed_in': 0, 'description': 0}"
+20 Duplicate Rows,0
+21 Titles from India,1046
+22 Titles from USA,3690
