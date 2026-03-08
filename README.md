@@ -3,15 +3,15 @@
 Netflix Data Analysis
 This project analyzes Netflix content using Python.
 
-##Tools used:
+## Tools used
 
-Python
-Pandas
+Python ,
+Pandas ,
 Matplotlib
 
-##Key Analysis:
+## Key Analysis:
 
-Movies vs TV Shows
-Top Countries
-Rating Distribution
-Content trends
+Movies vs TV Shows ,
+Top Countries ,
+Rating Distribution ,
+Content trends 
